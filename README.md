@@ -12,7 +12,7 @@ The purpose of this project is to provide a template for new open source reposit
 <!-- A more detailed Usage or detailed explaination of the repository here -->
 ## Usage
 
-This repository contains some example best practices for open source repositories:
+This repository contains some examples of best practices for open source repositories:
 
 * [LICENSE](LICENSE)
 * [README.md](README.md)
