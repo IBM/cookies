@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/IBM/cookies.git"
   },
-  "author": "Timo Ernst & Ryan Nelson",
+  "author": "IBM",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/IBM/cookies/issues"
