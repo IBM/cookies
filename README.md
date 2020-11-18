@@ -6,7 +6,7 @@ Proves simple CRUD operations for cookies in browsers
 
 Replace `[YOUR_GIT_TOKEN]` with your token:
 
-`$ npm install git+https://[YOUR_GIT_TOKEN]:x-oauth-basic@github.ibm.com/CyberRangers/cookies.git`
+`$ npm install git+https://[YOUR_GIT_TOKEN]:x-oauth-basic@github.com/IBM/cookies.git`
 
 ## How to use
 
