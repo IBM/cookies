@@ -4,7 +4,7 @@ Proves simple CRUD operations for cookies in browsers
 
 ## Installation
 
-`$ yarn add https://github.com/IBM/cookies.git
+`$ yarn add https://github.com/IBM/cookies.git`
 
 ## How to use
 
