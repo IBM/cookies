@@ -4,9 +4,7 @@ Proves simple CRUD operations for cookies in browsers
 
 ## Installation
 
-Replace `[YOUR_GIT_TOKEN]` with your token:
-
-`$ npm install git+https://[YOUR_GIT_TOKEN]:x-oauth-basic@github.com/IBM/cookies.git`
+`$ yarn add https://github.com/IBM/cookies.git
 
 ## How to use
 
